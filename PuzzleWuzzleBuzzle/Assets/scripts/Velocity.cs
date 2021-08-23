@@ -5,7 +5,7 @@ using UnityEngine;
 public class Velocity : MonoBehaviour
 {
     [SerializeField]
-    Vector3 speed;
+    Vector3 speed; // test script for initial player placement
 
     void FixedUpdate()
     {
